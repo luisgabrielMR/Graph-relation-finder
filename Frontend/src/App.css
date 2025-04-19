@@ -146,10 +146,10 @@
 
 .actor-input input {
   width: 100%;
-  padding: 12px 16px;
+  padding: 8px 1px; 
   border: 2px solid var(--accent-color);
   border-radius: 8px;
-  font-size: 1rem;
+  font-size: 0.9rem; 
   transition: all 0.3s ease;
   background: white;
 }
